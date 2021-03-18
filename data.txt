@@ -1,1 +1,2 @@
 commands for github
+git clone 
